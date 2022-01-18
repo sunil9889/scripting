@@ -1,0 +1,12 @@
+README.md
+conditional.sh
+conditional1.sh
+file.txt
+file1.txt
+file2.txt
+file3.txt
+filein.sh
+helloscript.sh
+readfile.sh
+script1.sh
+script2.sh
